@@ -1,0 +1,9 @@
+{
+    "FEED_GAS_KEY": "gas",
+    "FEED_HUMI_KEY": "humidity",
+    "FEED_TEMP_KEY": "temperature",
+    "FEED_LED_KEY": "led1",
+    "FEED_DOOR_KEY": "door1",
+    "ADAFRUIT_KEY": "aio_kFvp14Zc6GUgzfCnaMBDRF6hhAmB",
+    "USER_NAME": "vinhtran2611"
+}
